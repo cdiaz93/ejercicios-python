@@ -3,6 +3,7 @@
 def punto0():
     print("In Learning Github sapbee")
     print("Linked In")
+    print("Linked In 2")
 
 def punto1():
     entrada= str(input("Digite un numero: "))
