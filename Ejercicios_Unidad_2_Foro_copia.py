@@ -1,4 +1,8 @@
-# 1. Leer un número entero y determinar si es un número terminado en 4. 
+# 1. Leer un número entero y determinar si es un número terminado en 4.
+# 
+def punto0():
+    print("In Learning Github sapbee")
+
 def punto1():
     entrada= str(input("Digite un numero: "))
 
