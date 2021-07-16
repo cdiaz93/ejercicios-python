@@ -3,6 +3,7 @@
 # tienen notas mayores o iguales a 7 y cuántos menores.
 def ejercicio1():
     notas=[]
+    hola0="xd"
     mayor=0
     menor=0
 
